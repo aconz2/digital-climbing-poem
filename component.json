@@ -1,0 +1,21 @@
+{
+  "name": "engl",
+  "repo": "aconz2/engl",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/query": "*",
+    "component/ease": "*",
+    "component/css": "*",
+    "component/raf": "*",
+    "component/scroll-to": "*",
+    "yields/status": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "development": {},
+  "license": "MIT"
+}
